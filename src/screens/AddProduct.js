@@ -176,7 +176,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   selectedCategory: {
-    backgroundColor: 'lightblue',
+    backgroundColor: 'blue',
   },
   button: {
     backgroundColor: 'blue',
